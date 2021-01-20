@@ -4,4 +4,7 @@
   <artifactId>maven.project.seleniumtest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>EdurekaProject</name>
+<build>
+<finalName>docker-jenkins-integration-sample</finalName>
+</build>
 </project>
